@@ -1,2 +1,2 @@
 # android-kotlin-currency-converter
-basic android project, written in kotlin, which to convert Polish zloty currency to dollars
+Very basic Android project, written in Kotlin, which to convert Polish zloty currency to dollars.
